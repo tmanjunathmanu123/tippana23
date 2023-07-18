@@ -26,6 +26,10 @@
                 <behavior>Edit</behavior>
                 <field>Gender__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>state__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -130,6 +134,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Description</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Which_contry_you_travelled__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
