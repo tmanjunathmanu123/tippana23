@@ -4,5 +4,13 @@
         <members>Account.Which_contry_you_travelled__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Account-Manjunath</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
     <version>58.0</version>
 </Package>
